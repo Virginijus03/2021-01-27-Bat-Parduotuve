@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2021_01_27_BatųParduotuve
+namespace _2021_01_27_BatuParduotuve
 {
     class Program
     {
